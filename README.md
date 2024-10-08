@@ -19,7 +19,7 @@
 <details>
   <summary>Number Data Type Practice Question</summary>
 
-- Write Program to Add Two Integers and store theri sum in the third variable.
+- Write Program to Add Two Integers and store their sum in the third variable.
 - Write Program to Multiply two decimal Point Numbers. 
 - Write Program to perform all arithmetic operations.
 - Write Program to Swap Values of Two Variables 
