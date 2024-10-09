@@ -27,12 +27,88 @@
   - Input : ( x = 3 , y = 4 , z = 5)
   - output : (x = 4 , y = 5 , z = 3)
 - Write Program to convert feet to meter and meter into KM.
-- Write Program to convert celcius to farenheit. formula: (°C × 9/5)
+- Write Program to convert celcius to farenheit. formula: (°C × 9/5) + 35
 - Write Program to convert farenheit to celcius. formula: (°F − 32) × 5/9 
 - Write Program to Calculate Area of Circle. formula A=πr2
 - Write Program to Calculate Area of Square. formula A=a2
 - Write Program to Calculate Area of Rectangle. A=wl
 - Write Program to convert days to years and weeks
 </details>
+
+<details>
+  <summary>Bool Relational & Equality Operator </summary>
+  
+<table>
+        <thead>
+            <tr>
+                <th>Operator</th>
+                <th>Type</th>
+                <th>Description</th>
+                <th>Example</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>&lt;</td>
+                <td>Relational</td>
+                <td>Less than</td>
+                <td>5 &lt; 10</td>
+                <td>true</td>
+            </tr>
+            <tr>
+                <td>&gt;</td>
+                <td>Relational</td>
+                <td>Greater than</td>
+                <td>10 &gt; 5</td>
+                <td>true</td>
+            </tr>
+            <tr>
+                <td>&lt;=</td>
+                <td>Relational</td>
+                <td>Less than or equal to</td>
+                <td>5 &lt;= 5</td>
+                <td>true</td>
+            </tr>
+            <tr>
+                <td>&gt;=</td>
+                <td>Relational</td>
+                <td>Greater than or equal to</td>
+                <td>10 &gt;= 10</td>
+                <td>true</td>
+            </tr>
+            <tr>
+                <td>==</td>
+                <td>Equality</td>
+                <td>Equal to (compares values, ignores type)</td>
+                <td>5 == "5"</td>
+                <td>true</td>
+            </tr>
+            <tr>
+                <td>===</td>
+                <td>Equality</td>
+                <td>Strict equal to (compares values and type)</td>
+                <td>5 === "5"</td>
+                <td>false</td>
+            </tr>
+            <tr>
+                <td>!=</td>
+                <td>Equality</td>
+                <td>Not equal to (compares values, ignores type)</td>
+                <td>5 != "6"</td>
+                <td>true</td>
+            </tr>
+            <tr>
+                <td>!==</td>
+                <td>Equality</td>
+                <td>Strict not equal to (compares values & type)</td>
+                <td>5 !== "5"</td>
+                <td>true</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+
 
 
