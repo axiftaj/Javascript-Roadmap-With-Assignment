@@ -36,6 +36,69 @@
 </details>
 
 <details>
+  <summary>Arthematic operator</summary>
+
+<table border="1" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Operator</th>
+      <th>Description</th>
+      <th>Example</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>+</td>
+      <td>Addition</td>
+      <td>5 + 2</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>-</td>
+      <td>Subtraction</td>
+      <td>5 - 2</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>*</td>
+      <td>Multiplication</td>
+      <td>5 * 2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>/</td>
+      <td>Division</td>
+      <td>5 / 2</td>
+      <td>2.5</td>
+    </tr>
+    <tr>
+      <td>%</td>
+      <td>Modulus (Remainder)</td>
+      <td>5 % 2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>++</td>
+      <td>Increment</td>
+      <td>let x = 5; x++;</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>--</td>
+      <td>Decrement</td>
+      <td>let x = 5; x--;</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+
+
+
+<details>
   <summary>Bool Relational & Equality Operator </summary>
   
 <table>
