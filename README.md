@@ -215,7 +215,7 @@
 - $10 for packages heavier than 5kg.
 - Practice: Use conditional statements to calculate shipping cost.
 
-8. Restaurant Tip Calculator
+6. Restaurant Tip Calculator
 - Problem: Write a program that calculates the tip based on service quality:
 - "Excellent" service: 20% tip,
 - "Good" service: 15% tip,
@@ -223,6 +223,12 @@
 - "Poor" service: 5% tip.
 - Practice: Use if, else if, and else to calculate the tip percentage.
 
+7. Simple ATM Withdrawal
+- Problem: Write a program that simulates a simple ATM withdrawal system. The program should:
+- Deny the transaction if the requested withdrawal is more than the account balance,
+- Allow the transaction if the balance is sufficient.
+- Display the remaining balance after withdrawal.
+- Practice: Use if, else if, and else to handle different cases of balance and withdrawal amounts.
 
 </details>
 
