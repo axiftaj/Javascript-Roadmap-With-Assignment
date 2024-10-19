@@ -174,5 +174,28 @@
 </details>
 
 
+<details>
+  <summary>if else if & else statement Practice</summary>
+  
+  Practice questions using only if, else if and else statement based on the our prevous learning.
+  
+  - 1. Grade Calculator
+Problem: Write a program that takes a student's score as input and assigns a letter grade based on the score:
+A: 90-100
+B: 80-89
+C: 70-79
+D: 60-69
+F: Below 60
+Practice: Use if, else if, and else to determine the grade based on the score entered.
+  - Use console.log() to draw a right-angled triangle made of *.
+  - Use console.log() to draw an inverted triangle.
+  - Create a pyramid using * symbols with 5 levels.
+  - Use console.log() to draw a diamond shape.
+  - Use console.log() to draw a 5x5 hollow square.
+  - Use console.log() to draw a hollow right-angled triangle.
+  - Use console.log() to create a zigzag pattern.
+
+</details>
+
 
 
