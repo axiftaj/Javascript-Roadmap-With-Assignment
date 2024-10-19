@@ -179,21 +179,50 @@
   
   Practice questions using only if, else if and else statement based on the our prevous learning.
   
-  - 1. Grade Calculator
-Problem: Write a program that takes a student's score as input and assigns a letter grade based on the score:
-A: 90-100
-B: 80-89
-C: 70-79
-D: 60-69
-F: Below 60
-Practice: Use if, else if, and else to determine the grade based on the score entered.
-  - Use console.log() to draw a right-angled triangle made of *.
-  - Use console.log() to draw an inverted triangle.
-  - Create a pyramid using * symbols with 5 levels.
-  - Use console.log() to draw a diamond shape.
-  - Use console.log() to draw a 5x5 hollow square.
-  - Use console.log() to draw a hollow right-angled triangle.
-  - Use console.log() to create a zigzag pattern.
+1. Grade Calculator
+- Problem: Write a program that takes a student's score as input and assigns a letter grade based on the score:
+- A: 90-100
+- B: 80-89
+- C: 70-79
+- D: 60-69
+- F: Below 60
+  
+2. Traffic Light Simulation
+- Practice: Use conditions to check the color of the traffic light.
+- Problem: Simulate a traffic light system. The program should display:
+- "Go" if the light is green,
+- "Slow down" if the light is yellow,
+- "Stop" if the light is red.
+
+3. Age-Based Ticket Pricing
+- Problem: Create a program that calculates ticket prices for a movie based on age:
+- Children (under 12) get a 50% discount,
+- Seniors (60+) get a 30% discount,
+- Regular price for everyone else.
+- Practice: Use if, else if, and else to determine the ticket price based on the user's age.
+
+4. Shopping Discount Calculator
+- Problem: Create a program that calculates a discount based on the total purchase amount:
+- No discount if the purchase is less than $50,
+- 10% discount if the purchase is between $50 and $100,
+- 20% discount if the purchase is more than $100.
+- Practice: Use conditional statements to calculate the discount.
+
+5. Shipping Cost Calculator
+- Problem: Create a program to calculate shipping costs based on the weight of a package:
+- Free shipping for packages weighing less than 1kg,
+- $5 for packages between 1kg and 5kg,
+- $10 for packages heavier than 5kg.
+- Practice: Use conditional statements to calculate shipping cost.
+
+8. Restaurant Tip Calculator
+- Problem: Write a program that calculates the tip based on service quality:
+- "Excellent" service: 20% tip,
+- "Good" service: 15% tip,
+- "Average" service: 10% tip,
+- "Poor" service: 5% tip.
+- Practice: Use if, else if, and else to calculate the tip percentage.
+
 
 </details>
 
