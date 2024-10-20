@@ -17,6 +17,30 @@
 </details>
 
 <details>
+  <summary>What is Data & Data Types</summary>
+
+What is data ?
+In programming, data refers to any information that can be processed, stored, or transmitted by a computer. It is the core of what computers operate on and manipulate. Data can come in various forms, such as numbers, text, images, audio, and more. The way data is represented and stored depends on its data type.
+1. Primitive Data Types
+- String  
+- Number
+- Bool
+- Undefined 
+- Null 
+- Symbol
+- BigInt
+2. Non-Primitive Data Type
+- Object, 
+- Array
+- Function
+- Date
+- RegExp
+- Map
+- Set
+
+</details>
+
+<details>
   <summary>Number Data Type Practice Question</summary>
 
 - Write Program to Add Two Integers and store their sum in the third variable.
