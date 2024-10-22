@@ -12,7 +12,7 @@
   <summary>Practice questions using only console.log()</summary>
 
   Practice questions using only console.log() to draw shapes, patterns, and other creative outputs in the console.
-  
+
   <ol>
     <li>Use console.log() to draw a 5x5 square of * symbols.</li>
     <li>Use console.log() to draw a right-angled triangle made of *</li>
@@ -29,23 +29,27 @@
   <summary>What is Data & Data Types</summary>
 <h5>What is data ?</h5>
 In programming, data refers to any information that can be processed, stored, or transmitted by a computer. It is the core of what computers operate on and manipulate. Data can come in various forms, such as numbers, text, images, audio, and more. The way data is represented and stored depends on its data type.
-1. Primitive Data Types
-- String  
-- Number
-- Bool
-- Undefined 
-- Null 
-- Symbol
-- BigInt
-2. Non-Primitive Data Type
-- Object, 
-- Array
-- Function
-- Date
-- RegExp
-- Map
-- Set
+<h5>1. Primitive Data Types</h5>
+<ol>
+    <li>String</li>
+    <li>Number</li>
+    <li>Bool</li>
+    <li>Undefined</li>
+    <li>Null</li>
+    <li>Symbol</li>
+    <li>BigInt</li>
+ </ol>
 
+<h5>2. Non-Primitive Data Type</h5>
+<ol>
+    <li>Object</li>
+    <li>Array</li>
+    <li>Function</li>
+    <li>Date</li>
+    <li>RegExp</li>
+    <li>Map</li>
+    <li>Map</li>
+ </ol>
 </details>
 
 <details>
