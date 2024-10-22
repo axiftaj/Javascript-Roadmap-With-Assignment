@@ -321,5 +321,25 @@ In programming, data refers to any information that can be processed, stored, or
 
 </details>
 
+<details>
+  <summary><a href="https://youtu.be/OipNpUBpUPs?si=TDBmOjqeo2kYBiOB" target="_blank">for loop practice Question</a></summary>
+
+  <ol>
+    <li>Write a program using for loop that prints numbers from 1 to 10.</li>
+    <li>Use a for loop to calculate and print the sum of the first 10 natural numbers</li>
+    <li>Write a for loop that prints all even numbers between 1 and 20.</li>
+    <li>Create a for loop that prints the multiplication table for any number provided by the user (e.g., multiplication table for 5).</li>
+    <li>Write a for loop that counts down from 10 to 1 and prints each number.</li>
+    <li>Write a for loop that calculates the factorial of a given number (e.g., factorial of 5 is 5*4*3*2*1)</li>
+    <li>Use a for loop to print the multiples of 3 from 3 to 30.</li>
+    <li>Write a program using for loop to display the cube of the number up to an integer.</li>
+   
+
+  </ol>
+
+  <br> 
+   
+</details>
+
 </body>
 </html>
