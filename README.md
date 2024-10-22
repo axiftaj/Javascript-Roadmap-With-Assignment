@@ -1,25 +1,33 @@
-# Javascript-Roadmap-With-Assignment
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+</head>
+<body>
+  
+    <h4>Javascript-Roadmap-With-Assignment</h4>
 <details>
   <summary>Practice questions using only console.log()</summary>
-  
+
   Practice questions using only console.log() to draw shapes, patterns, and other creative outputs in the console.
   
-  - Use console.log() to draw a 5x5 square of * symbols.
-  - Use console.log() to draw a right-angled triangle made of *.
-  - Use console.log() to draw an inverted triangle.
-  - Create a pyramid using * symbols with 5 levels.
-  - Use console.log() to draw a diamond shape.
-  - Use console.log() to draw a 5x5 hollow square.
-  - Use console.log() to draw a hollow right-angled triangle.
-  - Use console.log() to create a zigzag pattern.
-
+  <ol>
+    <li>Use console.log() to draw a 5x5 square of * symbols.</li>
+    <li>Use console.log() to draw a right-angled triangle made of *</li>
+    <li>Use console.log() to draw an inverted triangle</li>
+    <li>Use console.log() to draw a diamond shape</li>
+    <li>Use console.log() to draw a hollow right-angled triangle</li>
+    <li>Use console.log() to draw a hollow right-angled triangle</li>
+    <li>Use console.log() to create a zigzag pattern.</li>
+ </ol>
+ 
 </details>
 
 <details>
   <summary>What is Data & Data Types</summary>
-
-What is data ?
+<h5>What is data ?</h5>
 In programming, data refers to any information that can be processed, stored, or transmitted by a computer. It is the core of what computers operate on and manipulate. Data can come in various forms, such as numbers, text, images, audio, and more. The way data is represented and stored depends on its data type.
 1. Primitive Data Types
 - String  
@@ -119,7 +127,6 @@ In programming, data refers to any information that can be processed, stored, or
 </table>
 
 </details>
-
 
 
 
@@ -256,5 +263,5 @@ In programming, data refers to any information that can be processed, stored, or
 
 </details>
 
-
-
+</body>
+</html>
