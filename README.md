@@ -266,5 +266,53 @@ In programming, data refers to any information that can be processed, stored, or
 
 </details>
 
+<details>
+    <summary>What is Loop</summary>
+
+    <p>Loops can execute a block of code a number of times.</p>
+
+<table border="1" cellpadding="5" >
+    <thead>
+      <tr>
+        <th>Value of i</th>
+        <th>Condition (i &lt; 3)</th>
+        <th>Output (console.log(i))</th>
+        <th>Update i (i++)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- 1st iteration -->
+      <tr>
+        <td>i = 0</td>
+        <td>0 &lt; 3 (true)</td>
+        <td>0</td>
+        <td>i++ → i = 1</td>
+      </tr>
+      <!-- 2nd iteration -->
+      <tr>
+        <td>i = 1</td>
+        <td>1 &lt; 3 (true)</td>
+        <td>1</td>
+        <td>i++ → i = 2</td>
+      </tr>
+      <!-- 3rd iteration -->
+      <tr>
+        <td>i = 2</td>
+        <td>2 &lt; 3 (true)</td>
+        <td>2</td>
+        <td>i++ → i = 3</td>
+      </tr>
+      <!-- Loop ends -->
+      <tr>
+        <td>i = 3</td>
+        <td>3 &lt; 3 (false)</td>
+        <td>--</td>
+        <td>Loop stops</td>
+      </tr>
+    </tbody>
+</table>    
+
+</details>
+
 </body>
 </html>
