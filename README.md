@@ -7,6 +7,14 @@
 </head>
 <body>
    <h3> Javascript-Roadmap-With-Assignment</h3>
+
+   <details>
+    <summary><a href="https://youtu.be/OipNpUBpUPs?si=TDBmOjqeo2kYBiOB" target="_blank">What is programming & Javascript</a></summary>
+    <br> 
+      Programming is the process of writing instructions or code that tells a computer how to perform specific tasks. These instructions are written in programming languages, which allow humans to communicate with computers. The main goal of programming is to solve problems or automate tasks by creating software, applications, websites, or systems
+    <br><br>  
+  </details>
+   
 <details>
   <summary>Practice questions using only console.log()</summary>
 
@@ -130,7 +138,6 @@ In programming, data refers to any information that can be processed, stored, or
 </table>
 
 </details>
-
 
 
 <details>
