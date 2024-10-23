@@ -322,7 +322,7 @@ In programming, data refers to any information that can be processed, stored, or
 </details>
 
 <details>
-  <summary><a href="https://youtu.be/OipNpUBpUPs?si=TDBmOjqeo2kYBiOB" target="_blank">for loop practice Question</a></summary>
+  <summary><a href="https://youtu.be/OipNpUBpUPs?si=TDBmOjqeo2kYBiOB" target="_blank">loop practice Question</a></summary>
 
   <ol>
     <li>Write a program using for loop that prints numbers from 1 to 10.</li>
