@@ -341,5 +341,26 @@ In programming, data refers to any information that can be processed, stored, or
    
 </details>
 
+
+<details>
+  <summary><a href="https://youtu.be/OipNpUBpUPs?si=TDBmOjqeo2kYBiOB" target="_blank">functions</a></summary>
+
+  In programming, a function is a reusable block of code that performs a specific task. Functions are essential because they help break down complex problems into smaller, manageable parts, making code more organized, readable, and efficient. By defining a function, you can call it whenever you need to perform that task, without having to rewrite the same code.
+
+
+  <ol>
+    <li>Definition: Functions are defined with a name, a set of parentheses for parameters, and a body that contains the code to be executed</li>
+    <li>Parameters: Some functions take inputs, called parameters, which allow you to pass data into the function for processing</li>
+    <li>Return Value: Functions can return a value as output. This is optional, but it's useful when you need a result from the function.</li>
+    <li>Reusability: Once defined, a function can be called (or "invoked") multiple times throughout a program.</li>
+   
+
+  </ol>
+
+  <br> 
+   
+</details>
+
+
 </body>
 </html>
