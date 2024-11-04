@@ -15,8 +15,23 @@
     <br><br>  
   </details>
    
-<details>
-  <summary>Practice questions using only console.log()</summary>
+  <details>
+    <summary><a href="https://youtu.be/3QHGiza8oyc?list=PLFyjjoCMAPtwPn-S-N6uujU6pCk1ofC5r" target="_blank">How to install Node.js on window</a></summary>
+   
+  </details>
+
+  <details>
+    <summary><a href="https://youtu.be/SjYc5_l1v4o?list=PLFyjjoCMAPtwPn-S-N6uujU6pCk1ofC5r" target="_blank">#3 How to install vs code on window </a></summary>
+   
+  </details>
+
+  <details>
+    <summary><a href="https://youtu.be/JYmxLus8OWQ?list=PLFyjjoCMAPtwPn-S-N6uujU6pCk1ofC5r" target="_blank">#4 Hello World JS | Run Javascript in VS Code & Chrome Browser </a></summary>
+  </details>
+
+  <details>
+    <summary><a href="https://youtu.be/lRz96uUBF5c?list=PLFyjjoCMAPtwPn-S-N6uujU6pCk1ofC5r" target="_blank">#5 Console Log Javascript Practice Question & Assignment </a></summary>
+
 
   Practice questions using only console.log() to draw shapes, patterns, and other creative outputs in the console.
 
@@ -30,10 +45,12 @@
     <li>Use console.log() to create a zigzag pattern.</li>
  </ol>
  
-</details>
+  </details>
+
+
 
 <details>
-  <summary>What is Data & Data Types</summary>
+  <summary> <a href="https://youtu.be/kKKq8ePmsG8?list=PLFyjjoCMAPtwPn-S-N6uujU6pCk1ofC5r" target="_blank">#6 What is Data & Data Types</a></summary>
 <h5>What is data ?</h5>
 In programming, data refers to any information that can be processed, stored, or transmitted by a computer. It is the core of what computers operate on and manipulate. Data can come in various forms, such as numbers, text, images, audio, and more. The way data is represented and stored depends on its data type.
 <h5>1. Primitive Data Types</h5>
